@@ -1,0 +1,7 @@
+nama    :deva
+kelas   :X RPL 2
+alamat  :kp.sadangsari
+umur    :17
+sekolah :smk assalaam
+
+note : saya sedang belajar awalan github
